@@ -1,0 +1,5 @@
+resourcegroup = "module_test"
+virtualnetwork = "vnet"
+subnet = "subnet"
+address_vnet = "10.0.0.0/16"
+adsress_subnet = "10.0.1.0/24"
