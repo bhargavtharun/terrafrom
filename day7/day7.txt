@@ -1,1 +1,1 @@
-
+remote state gathering and using in terraform
